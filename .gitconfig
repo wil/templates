@@ -1,0 +1,17 @@
+[user]
+	email = wil@dready.org
+	name = Wil Tan
+
+[core]
+	excludesfile = ~/.gitignore
+	whitespace = trailing-space,space-before-tab
+
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+[color]
+	ui = auto
+[push]
+	default = matching
+
